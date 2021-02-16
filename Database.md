@@ -18,4 +18,5 @@
 | Kraken175      | https://www.youtube.com/channel/UCeXN-PHcsvgIEGKcaFgznjA      |   Mope.io Animals |
 | Happy Elephant! | https://www.youtube.com/channel/UCmdbSuZCkH8JdKFzZiErziQ | Mope.io Animals |
 | Windows 10 | https://www.youtube.com/channel/UCJFuegniAsXwGkH7YMQH6fg | Other |
-| DT125 | https://www.youtube.com/channel/UCD147OhJ2o4cmZZdMAwj4kA | Mope.io Animals |
+| JavaScript Rocks! | https://www.youtube.com/channel/UCS1TNKVz9qCGcgayYNg6Nsw | Mope.io Animals |
+
