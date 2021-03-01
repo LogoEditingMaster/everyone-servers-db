@@ -19,4 +19,4 @@
 | Happy Elephant! | https://www.youtube.com/channel/UCmdbSuZCkH8JdKFzZiErziQ | Mope.io Animals |
 | Windows 10 | https://www.youtube.com/channel/UCJFuegniAsXwGkH7YMQH6fg | Other |
 | JavaScript Rocks! | https://www.youtube.com/channel/UCS1TNKVz9qCGcgayYNg6Nsw | Mope.io Animals |
-
+| Logo Editing Master | https://www.youtube.com/channel/UC42doeLhnTV7BOAGWynlhZA | Mope.io Animals (Main) |
