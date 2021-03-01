@@ -19,4 +19,4 @@
 | Windows 10 | https://www.youtube.com/channel/UCJFuegniAsXwGkH7YMQH6fg | Other | ![](https://yt3.ggpht.com/ytc/AAUvwnhC3FyEDMia3BOlfwg7scPTuca8G5OUngjDR1-Y=s88-c-k-c0x00ffffff-no-rj)
 | JavaScript Rocks! | https://www.youtube.com/channel/UCS1TNKVz9qCGcgayYNg6Nsw | Mope.io Animals | ![](https://yt3.ggpht.com/ytc/AAUvwngIFw9K9Q3Yva4T7PUnQZmzfc11bfQ7D3NZQtA=s88-c-k-c0x00ffffff-no-rj)
 | Logo Editing Master | https://www.youtube.com/channel/UC42doeLhnTV7BOAGWynlhZA | Mope.io Animals (Main) | ![](https://yt3.ggpht.com/ytc/AAUvwngpafAQK5q44KdpXUirAW9pB5P_9cfSaIgOmcZzSA=s88-c-k-c0x00ffffff-no-rj)
-| King Shah | https://www.youtube.com/channel/UC42doeLhnTV7BOAGWynlhZA | Mope.io Animals | ![](https://yt3.ggpht.com/ytc/AAUvwnh8Ds_6HhrQ2eCvD0Y08tzJAMDsFO9NEIg3cJE=s88-c-k-c0x00ffffff-no-rj)
+| King Shah | https://www.youtube.com/channel/UCUT-3z7A2AFbw_KUQlxu4ng | Mope.io Animals | ![](https://yt3.ggpht.com/ytc/AAUvwnh8Ds_6HhrQ2eCvD0Y08tzJAMDsFO9NEIg3cJE=s88-c-k-c0x00ffffff-no-rj)
