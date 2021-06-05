@@ -12,7 +12,6 @@
 | SFTCP2      | https://www.youtube.com/channel/UCOkw6EGYrbg1xI-nzIQjqmQ      |   Mope.io Animals | ![](https://yt3.ggpht.com/ytc/AAUvwngdZS0iHUgjzAGH7_eIbVZYODwbkYhWGdby0V3k=s88-c-k-c0x00ffffff-no-rj)
 | Crododiles Away      | https://www.youtube.com/channel/UCn3TIaZQldlxZyPdVQ47fYQ      |   Mope.io Animals | ![](https://yt3.ggpht.com/ytc/AAUvwngwubg1UaMoRbjt-n1GC-eGwfKt3FeEgYrenIfO=s88-c-k-c0x00ffffff-no-rj)
 | Deep Babies      | https://www.youtube.com/channel/UCPbcwP9Oga5rsdl5HVzTT6w      |    Deep Babies Family, Mope.io Animals | ![](https://yt3.ggpht.com/ytc/AAUvwniZgfntMtnxKtqpgUZzz7BEzd-MpreSYo5louai=s176-c-k-c0x00ffffff-no-rj-mo)
-| MbeleElijanho      | https://www.youtube.com/channel/UCkI9XuJyEb5HrUKUtB1V6rA      |   Mope.io Animals | ![](https://yt3.ggpht.com/ytc/AAUvwnhIVleznoXCMNZdZJN1YFY-6dzrrFXAmkUfjBqe=s88-c-k-c0x00ffffff-no-rj)
 | Not So Deep Babies      | https://www.youtube.com/channel/UCHJt6owQkhafUJdycBjBksA      |   Deep Babies Family, Mope.io Animals | ![](https://yt3.ggpht.com/ytc/AAUvwni4UpsZ_uZZuoEn869CN5oxyu3rogXgeoRIUTuV=s176-c-k-c0x00ffffff-no-rj-mo)
 | Kraken175      | https://www.youtube.com/channel/UCeXN-PHcsvgIEGKcaFgznjA      |   Mope.io Animals | ![](https://yt3.ggpht.com/ytc/AAUvwnhiOjEeZYWe0mmz5Lxc2rt9XKh8KQ3Gw9cwsoEeJw=s88-c-k-c0x00ffffff-no-rj)
 | Happy Elephant! | https://www.youtube.com/channel/UCmdbSuZCkH8JdKFzZiErziQ | Mope.io Animals | ![](https://yt3.ggpht.com/ytc/AAUvwnhD-5S4Hg2xwBC50fFFc8RVPDzu382d1RmrQG80=s88-c-k-c0x00ffffff-no-rj)
@@ -20,3 +19,4 @@
 | JavaScript Rocks! | https://www.youtube.com/channel/UCS1TNKVz9qCGcgayYNg6Nsw | Mope.io Animals | ![](https://yt3.ggpht.com/ytc/AAUvwngIFw9K9Q3Yva4T7PUnQZmzfc11bfQ7D3NZQtA=s88-c-k-c0x00ffffff-no-rj)
 | Logo Editing Master | https://www.youtube.com/channel/UC42doeLhnTV7BOAGWynlhZA | Mope.io Animals (Main) | ![](https://yt3.ggpht.com/ytc/AAUvwngpafAQK5q44KdpXUirAW9pB5P_9cfSaIgOmcZzSA=s88-c-k-c0x00ffffff-no-rj)
 | King Shah | https://www.youtube.com/channel/UCUT-3z7A2AFbw_KUQlxu4ng | Mope.io Animals | ![](https://yt3.ggpht.com/ytc/AAUvwnh8Ds_6HhrQ2eCvD0Y08tzJAMDsFO9NEIg3cJE=s88-c-k-c0x00ffffff-no-rj)
+| The Teacher | https://www.youtube.com/channel/UC22zr5xcWs8hsBSdDLe7q7w | Mope.io Animals | ![](https://yt3.ggpht.com/ytc/AAUvwnh7FO87V6avIUt4bNHCpxxpE_bvL2oJpUfBzyir=s88-c-k-c0x00ffffff-no-rj)
