@@ -1,9 +1,4 @@
-
 daysUntilLock: 1
-
-skipCreatedBefore: false
-
-exemptLabels: []
 
 lockLabel: false
 
